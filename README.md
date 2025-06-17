@@ -1,4 +1,5 @@
-🕌 **Zakat Buddy (Beta) – AI-Powered Zakat & Quranic Ayah Guide**
+# 🕌 **Zakat Buddy (Beta) – AI-Powered Zakat & Quranic Ayah Guide**
+
 
 
 Zakat Buddy is a basic AI prototype that helps calculate your approximate zakat and fetches a Quranic verse about charity. It's currently a light version, not a full Islamic zakat calculator, but will be upgraded soon with more accurate logic and proper Urdu support, in sha Allah.
