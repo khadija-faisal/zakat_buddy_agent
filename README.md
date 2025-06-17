@@ -1,4 +1,4 @@
-# 🕌 **Zakat Buddy (Beta) – AI-Powered Zakat & Quranic Ayah Guide**
+# 🕌 **Zakat Buddy – AI-Powered Zakat & Quranic Ayah Guide**
 
 
 
